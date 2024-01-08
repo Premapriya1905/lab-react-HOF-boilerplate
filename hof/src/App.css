@@ -1,0 +1,15 @@
+.parent div{
+text-align: center;
+
+}
+.list-elements{
+  list-style:none;
+  color: rgb(84, 84, 238);
+ 
+
+}
+.display-box{
+  border: 2px solid black;
+  color: rgb(84, 84, 238);
+
+}
